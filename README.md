@@ -32,5 +32,6 @@
 
 ## 计划方案
 
-![image-20240630155453416](README.assets/image-20240630155453416.png)
+![image](https://github.com/sssanssss/rongchuang/assets/138885461/3179dd4f-173c-475f-b712-22cd762d15ac)
+
 
